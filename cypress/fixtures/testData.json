@@ -1,0 +1,9 @@
+{
+  "postRequestBody": {
+    "DOB": "1974-07-28",
+    "EMAIL": "Sterling.Brakus30@hotmail.com",
+    "FIRST_NAME": "Oran",
+    "LAST_NAME": "Walsh",
+    "INSTRUCTOR_ID": 4
+  }
+}

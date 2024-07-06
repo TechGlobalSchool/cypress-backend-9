@@ -23,6 +23,7 @@ export default [
       semi: ['error', 'never'],
       quotes: ['error', 'single'],
       'max-len': ['error', { code: 120, ignoreComments: true, ignoreStrings: true }],
+      indent: ['error', 2],
       'no-undef': 'off',
       'prettier/prettier': 'error',
     },
